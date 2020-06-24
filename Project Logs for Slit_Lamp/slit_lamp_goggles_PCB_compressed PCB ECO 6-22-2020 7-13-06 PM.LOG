@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=GND Pin=A4988-GND_M
+Change Component DesignItemId : Designator=LIMIT_R Old DesignItemId=10KO_SMD-0603_1/10W-5% New DesignItemId=10KO_SMD-0603_1/10W-5%
+Change Component DesignItemId : Designator=MOSFET_R Old DesignItemId=10KO_SMD-0603_1/10W-5% New DesignItemId=10KO_SMD-0603_1/10W-5%
+Change Component DesignItemId : Designator=RESET_BUT_R Old DesignItemId=10KO_SMD-0603_1/10W-5% New DesignItemId=10KO_SMD-0603_1/10W-5%
+Change Component DesignItemId : Designator=SLIT_BUT_R Old DesignItemId=10KO_SMD-0603_1/10W-5% New DesignItemId=10KO_SMD-0603_1/10W-5%
+Change Component Footprint: Designator=U1 Old Footprint=D16 New Footprint=D16-L
+Change Component Comment : Designator=A4988 Old Comment=A New Comment=A4988
+Change Component Description : Designator=METRO_MINI Old Description=Microcontroller New Description=
+Change Component Description : Designator=A4988 Old Description=Motor Drive for Stepper Motor New Description=
+Change Component Library : Designator=A4988 Old Library=a4988_stepDriver.IntLib New Library=a4988_stepDriver.SCHLIB
+Change Component Library : Designator=METRO_MINI Old Library=adafruit_metro_mini.IntLib New Library=adafruit_metro_mini.SCHLIB
+Change component parameters: Designator = "LIMIT_R"; Footprint = "RES 0603_1608"; UniqueID = "\BLHZHKIC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DATASHEET"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SMD-0603_1/10W-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "10KO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTLINK"; Value = "https://www.digikey.com/products/en?keywords=311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTPN"; Value = "311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "PiB_resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MOSFET_R"; Footprint = "RES 0603_1608"; UniqueID = "\ILKJAKWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DATASHEET"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SMD-0603_1/10W-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "10KO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTLINK"; Value = "https://www.digikey.com/products/en?keywords=311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTPN"; Value = "311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "PiB_resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RESET_BUT_R"; Footprint = "RES 0603_1608 RF"; UniqueID = "\VSBTQWLX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DATASHEET"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SMD-0603_1/10W-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "10KO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTLINK"; Value = "https://www.digikey.com/products/en?keywords=311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTPN"; Value = "311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "PiB_resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SLIT_BUT_R"; Footprint = "RES 0603_1608"; UniqueID = "\YBKYLTXM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DATASHEET"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SMD-0603_1/10W-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "10KO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTLINK"; Value = "https://www.digikey.com/products/en?keywords=311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DISTPN"; Value = "311-10KGRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "PiB_resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "A4988"; Footprint = "A4988"; UniqueID = "\KPUGECVS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "A4988"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "a4988_stepDriver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "A4988"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "A4988"; VariantName = "[No Variations]"
+Change component parameters: Designator = "METRO_MINI"; Footprint = "ADAFRUIT_METRO_MINI"; UniqueID = "\LBPLNBYC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "ADAFRUIT_METRO_MINI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "adafruit_metro_mini"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "ADAFRUIT_METRO_MINI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "ADAFRUIT_METRO_MINI"; VariantName = "[No Variations]"
+Added Room: Name=Slit_Lamp_Schematic

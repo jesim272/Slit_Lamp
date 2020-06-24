@@ -1,0 +1,193 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\a4988_stepDriver.lbr
+    Analyzing data of C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\a4988_stepDriver.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\adafruit_metro_mini.lbr
+    Analyzing data of C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\adafruit_metro_mini.lbr
+    Load settings
+    Load layers 145
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\adafruit_power_1000c.lbr
+    Analyzing data of C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\adafruit_power_1000c.lbr
+    Load settings
+    Load layers 129
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\SRlatch.lbr
+    Analyzing data of C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\SRlatch.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\slit_lamp_goggles_PCV_V2_compressed\slit_lamp_goggles_PCB_compressed.brd
+    Analyzing data of C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\slit_lamp_goggles_PCV_V2_compressed\slit_lamp_goggles_PCB_compressed.brd
+    Load settings
+    Load layers 155
+    ERROR: Unhandled typefusionsync
+    Load Library "a4988_stepDriver"
+    Load Packages 1
+    Load Library "adafruit_metro_mini"
+    Load Packages 1
+    Load Library "mosfet_smd"
+    Load Packages 1
+    Load Library "SRlatch"
+    Load Packages 1
+    Load Library "PiB_connectors"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "PiB_resistors"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "adafruit_power_1000c"
+    Load Packages 1
+    Load Library "PiB_capacitors"
+    Load Packages 1
+    Load Library "con-JST SH"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
+
+Section : Analyze Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\slit_lamp_goggles_PCV_V2_compressed\slit_lamp_goggles_PCB_compressed.sch
+    Analyzing data of C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\slit_lamp_goggles_PCV_V2_compressed\slit_lamp_goggles_PCB_compressed.sch
+    Load settings
+    Load layers 155
+    Load schematic
+    Load Libraries 10
+    Load Library "a4988_stepDriver"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "adafruit_metro_mini"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "mosfet_smd"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SRlatch"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "PiB_power_symbols"
+    Load Packages 0
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "PiB_connectors"
+    Load Packages 5
+    ERROR: Unhandled typepackages3d
+    Load Symbols 2
+    Load DeviceSets 2
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "PiB_resistors"
+    Load Packages 7
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 2
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "adafruit_power_1000c"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "PiB_capacitors"
+    Load Packages 4
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "con-JST SH"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 2
+    Load Parts 51
+    Load Sheets 1
+EndSection
+
+Section : Import Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\adafruit_metro_mini.lbr
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+EndSection
+
+Section : Import Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\adafruit_power_1000c.lbr
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+EndSection
+
+Section : Import Document - C:\Users\Jesi\Downloads\StandAloneSlitLamp\slitLamp_Eagle_PCB_Files\libraries\SRlatch.lbr
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 0000000172FC8CC2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+EndSection
