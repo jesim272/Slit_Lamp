@@ -92,23 +92,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KLHAXSXB
 
 [Document4]
-DocumentPath=slit_lamp_goggles_PCB_compressed.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=SlitLamp Altium Libraries\Imported a4988_stepDriver.PrjPcb\a4988_stepDriver.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=SlitLamp Altium Libraries\Imported a4988_stepDriver.PrjPcb\a4988_stepDriver.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,9 +123,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZMYXEDKG
 
-[Document7]
+[Document6]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_metro_mini.PrjPcb\adafruit_metro_mini.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_metro_mini.PrjPcb\adafruit_metro_mini.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,9 +157,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BQKMSSRS
 
-[Document9]
+[Document8]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_power_1000c.PrjPcb\adafruit_power_1000c.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_power_1000c.PrjPcb\adafruit_power_1000c.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,9 +191,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXZSFQYQ
 
-[Document11]
+[Document10]
 DocumentPath=SlitLamp Altium Libraries\Imported SRlatch.PrjPcb\SRlatch.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=SlitLamp Altium Libraries\Imported SRlatch.PrjPcb\SRlatch.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GESEUDCC
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - slit_lamp_goggles_PCB_compressed.html
