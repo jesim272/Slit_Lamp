@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Projects\Slit_Lamp\slit_lamp_goggles_PCB_compressed.PcbDoc
 Date     : 6/25/2020
-Time     : 2:12:51 PM
+Time     : 2:30:28 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -123,4 +123,4 @@ Rule Violations :0
 
 Violations Detected : 57
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
