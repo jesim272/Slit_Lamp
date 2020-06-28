@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NTJFMSMD
 
 [Document5]
 DocumentPath=SlitLamp Altium Libraries\Imported a4988_stepDriver.PrjPcb\a4988_stepDriver.SCHLIB
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JFYCUGKX
 
 [Document7]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_metro_mini.PrjPcb\adafruit_metro_mini.SCHLIB
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PUKFBUVJ
 
 [Document9]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_power_1000c.PrjPcb\adafruit_power_1000c.SCHLIB
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VJYHDJVD
 
 [Document11]
 DocumentPath=SlitLamp Altium Libraries\Imported SRlatch.PrjPcb\SRlatch.SCHLIB
@@ -224,8 +224,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GESEUDCC
 
+[Document12]
+DocumentPath=Slit_Lamp_lib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LNRWPNSN
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - slit_lamp_goggles_PCB_compressed.html
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - Slit_Lamp_PCB.html
 DItemRevisionGUID=
 
 [SearchPath1]
