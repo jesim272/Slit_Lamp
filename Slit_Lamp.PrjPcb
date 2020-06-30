@@ -309,6 +309,44 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXUXGLSB
 
+[Document17]
+DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM06B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM06B-SRSS-TB_LF_SN_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NWEXOGJK
+
+[Document18]
+DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM06B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM06B-SRSS-TB_LF_SN_eec_0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\..\Jesi\Desktop\Altium Open Source\altium-library\*.*
 IncludeSubFolders=1
