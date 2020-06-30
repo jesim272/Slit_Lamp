@@ -242,40 +242,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BFSYBNDG
 
 [Document13]
-DocumentPath=SlitLamp Altium Libraries\4_Pin_Connector\SnapEDApcb.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GMIVLSFD
-
-[Document14]
-DocumentPath=SlitLamp Altium Libraries\4_Pin_Connector\SnapEDAsch.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JVHTISAB
-
-[Document15]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM03B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM03B-SRSS-TB_LF_SN_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWTYDCHN
 
-[Document16]
+[Document14]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM03B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM03B-SRSS-TB_LF_SN_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PELBPMDS
 
-[Document17]
+[Document15]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM02B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM02B-SRSS-TB_LF_SN_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMJDCMRE
 
-[Document18]
+[Document16]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM02B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM02B-SRSS-TB_LF_SN_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,6 +308,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXUXGLSB
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\..\..\..\Jesi\Desktop\Altium Open Source\altium-library\*.*
@@ -582,12 +552,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPC52516 (HP ENVY 5660 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
