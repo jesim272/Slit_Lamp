@@ -1,0 +1,19 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 1:48 PM on 29 June, 2020
+*
+* Component Name: led4
+*
+.MODEL led4 D
++(
++     IS = 9.3207E-0005
++      N = 11.7347
++     RS = 0.0008
++)
+
+* Spice model led4 has been assigned the following parameters:
+
+* Forward-Bias Diode Current Parameters
+*     IS: Saturation Current..................(Unit: A)
+*      N: Emission Coefficient
+*     RS: Ohmic Resistance....................(Unit: Ohm)
