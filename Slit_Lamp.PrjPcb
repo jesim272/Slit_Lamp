@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RYPIDPKR
 
 [Document2]
-DocumentPath=..\..\..\..\..\Jesi\Documents\AltiumLL\SamacSys.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
-
-[Document3]
 DocumentPath=Custom_Slit_Lamp.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLHAXSXB
 
-[Document4]
+[Document3]
 DocumentPath=SlitLamp Altium Libraries\Imported a4988_stepDriver.PrjPcb\a4988_stepDriver.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,24 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTJFMSMD
 
-[Document5]
-DocumentPath=..\..\..\..\..\Jesi\Documents\AltiumLL\SamacSys.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NGLTGAHM
-
-[Document6]
+[Document4]
 DocumentPath=SlitLamp Altium Libraries\Imported a4988_stepDriver.PrjPcb\a4988_stepDriver.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMYXEDKG
 
-[Document7]
+[Document5]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_metro_mini.PrjPcb\adafruit_metro_mini.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFYCUGKX
 
-[Document8]
+[Document6]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_metro_mini.PrjPcb\adafruit_metro_mini.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQKMSSRS
 
-[Document9]
+[Document7]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_power_1000c.PrjPcb\adafruit_power_1000c.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUKFBUVJ
 
-[Document10]
+[Document8]
 DocumentPath=SlitLamp Altium Libraries\Imported adafruit_power_1000c.PrjPcb\adafruit_power_1000c.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXZSFQYQ
 
-[Document11]
+[Document9]
 DocumentPath=SlitLamp Altium Libraries\Imported SRlatch.PrjPcb\SRlatch.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJYHDJVD
 
-[Document12]
+[Document10]
 DocumentPath=SlitLamp Altium Libraries\Imported SRlatch.PrjPcb\SRlatch.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GESEUDCC
 
-[Document13]
+[Document11]
 DocumentPath=Slit_Lamp_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LNRWPNSN
 
-[Document14]
+[Document12]
 DocumentPath=V2_Slit_Lamp_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFSYBNDG
 
-[Document15]
+[Document13]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM03B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM03B-SRSS-TB_LF_SN_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWTYDCHN
 
-[Document16]
+[Document14]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM03B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM03B-SRSS-TB_LF_SN_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PELBPMDS
 
-[Document17]
+[Document15]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM02B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM02B-SRSS-TB_LF_SN_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMJDCMRE
 
-[Document18]
+[Document16]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM02B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM02B-SRSS-TB_LF_SN_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXUXGLSB
 
-[Document19]
+[Document17]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM06B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM06B-SRSS-TB_LF_SN_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWEXOGJK
 
-[Document20]
+[Document18]
 DocumentPath=SlitLamp Altium Libraries\Conn_JST_BM06B-SRSS-TB(LF)(SN)\parts\Conn_JST_BM06B-SRSS-TB_LF_SN_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=Motor_PCB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,42 +360,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNUOLYZV
 
-[Document22]
-DocumentPath=Remove_Motor.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AKLSYFWR
-
-[Document23]
+[Document20]
 DocumentPath=SamacSys.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
-DocumentPath=SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -451,86 +383,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.RUL
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -772,22 +624,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HPC52516 (HP ENVY 5660 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -886,7 +728,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HPC52516 (HP ENVY 5660 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
