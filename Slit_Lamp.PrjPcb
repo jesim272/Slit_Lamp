@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Slit_Lamp_Schematic.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -384,7 +384,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -394,87 +394,108 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNUOLYZV
 
+[Document22]
+DocumentPath=Remove_Motor.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AKLSYFWR
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - Remove_Motor.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.EXTREP
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBL
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBO
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBS
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GD1
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GG1
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GKO
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM1
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM6
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM10
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM12
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM13
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPB
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPT
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTL
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTO
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTP
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTS
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.REP
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.RUL
 DItemRevisionGUID=
 
@@ -1597,6 +1618,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Slit_Lamp_lib.SchLib
+ComponentDesignItemID0=.1 ohm RES
+ComponentSymbolReference0=.1 ohm RES
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1610,6 +1637,27 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=Supplier 1
+ParameterUpdate4=1
+ParameterName5=Supplier 2
+ParameterUpdate5=1
+ParameterName6=Supplier Part Number 1
+ParameterUpdate6=1
+ParameterName7=Supplier Part Number 2
+ParameterUpdate7=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=RES 1206_3216
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
