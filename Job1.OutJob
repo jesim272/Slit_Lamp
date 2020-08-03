@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Job1.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP ENVY 7640 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -174,7 +174,7 @@ OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
+Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputCategory6=Fabrication
@@ -195,8 +195,8 @@ OutputDocumentPath7=
 OutputVariantName7=
 OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
-OutputEnabled7_OutputMedium2=1
-OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=1
 OutputEnabled7_OutputMedium4=0
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
@@ -241,7 +241,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=
+OutputFilePath3=C:\Users\Public\Documents\Altium\Projects\Slit_Lamp\Project Outputs for Slit_Lamp\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for Slit_Lamp
 OutputPathMedia3=
@@ -295,7 +295,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Public\Documents\Altium\Projects\Slit_Lamp\Project Outputs for Slit_Lamp\Job1.PDF
 OpenOutputs2=1
-RelativeOutputPath3=
+RelativeOutputPath3=C:\Users\Public\Documents\Altium\Projects\Slit_Lamp\Project Outputs for Slit_Lamp\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
