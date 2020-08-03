@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Slit_Lamp
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -412,91 +412,387 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - Remove_Motor.html
+DocumentPath=Project Outputs for Slit_Lamp\BOM\Bill of Materials-Slit_Lamp.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.EXTREP
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBL
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBO
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - Remove_Motor.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBS
+DocumentPath=Project Outputs for Slit_Lamp\Design Rule Check - V2_Slit_Lamp_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GD1
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\assembly_text_bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GG1
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bglue\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GKO
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\board_outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM1
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM6
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM10
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM12
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM13
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_designator\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPB
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPT
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTL
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTO
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\bottom_top_assembly_bottom_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTP
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTS
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.REP
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\courtyard_bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\dimension\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\top_top_assembly_bottom_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\ttest\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\unrouted\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Slit_Lamp\Pick Place\Pick Place for V2_Slit_Lamp_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Slit_Lamp\Pick Place\Pick Place for V2_Slit_Lamp_PCB.txt
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for Slit_Lamp\ODB\V2_Slit_Lamp_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument94]
 DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.TXT
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -653,7 +949,7 @@ OutputType1=AdvSimNetlist
 ConfigParameters1=Record=AdvSimNetlistView|SheetsToNetlist=1|NetlistType=1|SimulationName=Mixed Sim 2|ProfileId=AFVBQKGJ|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource=VB1|DC_PrimaryStart=0|DC_PrimaryStop=5|DC_PrimaryStep=1|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles=70|TRAN_DefaultPointsPerCycle=100|TRAN_StartTime=0|TRAN_StopTime=0.005|TRAN_StepTime=0.0001|TRAN_MaxStepTime=0.0002|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=True|TRAN_UseInitialConditions=True|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=1|Noise_Stop=1E6|Noise_TestPoints=200|Noise_PointsPerSummary=100|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1=C1[capacitance]|ParamSweep_Start1=1E-8|ParamSweep_Stop1=0.0001|ParamSweep_Step1=1E-5|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND|OldCfgLoaded=True
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Slit_Lamp
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -880,13 +1176,17 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HPC52516 (HP ENVY 5660 series)
+TargetPrinter=HP ENVY 7640 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -914,6 +1214,10 @@ OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+Configuration6_Name1=ForceUpdateSettings
+Configuration6_Item1=False
+Configuration6_Name2=OutputConfigurationParameter1
+Configuration6_Item2=AddToAllLayerClasses.Set= |AddToAllPlots_Assembly Text Bottom=False|AddToAllPlots_bGlue=False|AddToAllPlots_Board Outline=False|AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Bottom Top Assembly/Bottom Assembly=False|AddToAllPlots_Courtyard Bottom=False|AddToAllPlots_Dimension=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Courtyard=False|AddToAllPlots_Top Top Assembly/Bottom Assembly=False|AddToAllPlots_tTest=False|AddToAllPlots_Unrouted=False|Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 17|Plot_V7_2=True|Plot_V7_2_name=Mechanical Layer 18|Plot_V7_3=True|Plot_V7_3_name=Mechanical Layer 19|Plot_V7_4=True|Plot_V7_4_name=Mechanical Layer 20|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=True|PlotMechanical11Plot=True|PlotMechanical12Plot=True|PlotMechanical13Plot=True|PlotMechanical14Plot=True|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=True|PlotMechanical7Plot=False|PlotMechanical8Plot=True|PlotMechanical9Plot=True|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Imperial
 OutputType7=Drill
 OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
