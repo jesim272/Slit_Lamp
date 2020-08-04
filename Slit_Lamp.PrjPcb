@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Slit_Lamp
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -394,23 +394,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Slit_Lamp\BOM\Bill of Materials-Slit_Lamp.xlsx
 DItemRevisionGUID=
@@ -584,215 +567,119 @@ DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
 DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument51]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument53]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument55]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument56]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument57]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument58]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument59]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument60]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument61]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument62]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument63]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument65]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument66]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM9
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument68]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument69]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument70]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument71]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument73]
+[GeneratedDocument59]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM17
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GM19
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument77]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument78]
+[GeneratedDocument63]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument79]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument80]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument81]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument82]
+[GeneratedDocument65]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument83]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument84]
+[GeneratedDocument66]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument85]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument86]
+[GeneratedDocument67]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument87]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument88]
+[GeneratedDocument68]
 DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument89]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument90]
+[GeneratedDocument69]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument91]
+[GeneratedDocument70]
 DocumentPath=Project Outputs for Slit_Lamp\ODB\V2_Slit_Lamp_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument92]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument93]
+[GeneratedDocument71]
 DocumentPath=Project Outputs for Slit_Lamp\Gerber\V2_Slit_Lamp_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument94]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument95]
+[GeneratedDocument72]
 DocumentPath=Project Outputs for Slit_Lamp\NC Drill\V2_Slit_Lamp_PCB.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument96]
-DocumentPath=Project Outputs for Slit_Lamp\V2_Slit_Lamp_PCB.TXT
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -949,7 +836,7 @@ OutputType1=AdvSimNetlist
 ConfigParameters1=Record=AdvSimNetlistView|SheetsToNetlist=1|NetlistType=1|SimulationName=Mixed Sim 2|ProfileId=AFVBQKGJ|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource=VB1|DC_PrimaryStart=0|DC_PrimaryStop=5|DC_PrimaryStep=1|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles=70|TRAN_DefaultPointsPerCycle=100|TRAN_StartTime=0|TRAN_StopTime=0.005|TRAN_StepTime=0.0001|TRAN_MaxStepTime=0.0002|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=True|TRAN_UseInitialConditions=True|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=1|Noise_Stop=1E6|Noise_TestPoints=200|Noise_PointsPerSummary=100|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1=C1[capacitance]|ParamSweep_Start1=1E-8|ParamSweep_Stop1=0.0001|ParamSweep_Step1=1E-5|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND|OldCfgLoaded=True
 
 [Generic_EDE]
-OutputDir=Project Outputs for Slit_Lamp
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
