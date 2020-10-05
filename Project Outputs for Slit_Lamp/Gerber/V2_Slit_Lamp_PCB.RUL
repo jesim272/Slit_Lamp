@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Slit_Lamp\V2_Slit_Lamp_PCB.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_PTH|Scope=Board|Minimum=5.12
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=Clearance|RuleName=Clearance (Same Net)|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_For_NetClass_POWER|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=mlMinStopFrame|Scope=Board|Minimum=2.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
